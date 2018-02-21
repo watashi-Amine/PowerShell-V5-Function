@@ -16,7 +16,7 @@ La réplication doit étre activer sur le site principal et le site de secours
 
 
 .EXAMPLE
-./envoyer_mail.ps1
+./Envoyer_mail.ps1
 envoyer_mail -adresse_email YOUR_EMAIL@gmail.com  -mot_de_passe YOUR_PASSWORD -serveur_smtp smtp.gmail.com -Objet_mail TEST -text_mail YOUR_TEXT
 
 .LINK
